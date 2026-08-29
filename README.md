@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedalneder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&suffix=%20followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmedalneder"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Nidal-Al-Neder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&suffix=%20followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAhmed-Nidal-Al-Neder"/>
 
 </div>
 
@@ -26,6 +26,14 @@ mindset: "Clean code, solid architecture, and continuous growth"
 currently_learning: "Advanced OOP Design Patterns & System Architecture"
 fun_fact: "I turn ☕ into working software"
 ```
+
+<br/>
+
+I'm an Intelligent Systems & Computer Engineering student at **Al-Aqsa University**, passionate about building software that is not just functional, but well-structured, maintainable, and built to scale. My core focus is **Java** and **Object-Oriented Programming**, where I care deeply about writing clean, readable code and applying solid design principles rather than just "making things work."
+
+Beyond the classroom, I run an **educational YouTube channel** and a **Telegram community**, each with over **6,000 members**, where I share engineering and programming content to help students learn and grow — because I believe knowledge multiplies when it's shared.
+
+I'm constantly exploring deeper concepts in software architecture and design patterns, and I enjoy the process of turning abstract problems into structured, elegant solutions. Whether it's a class project, a personal experiment, or content for my community, I approach every piece of work with the same mindset: **build it right, not just build it fast.**
 
 <br/>
 
@@ -53,14 +61,14 @@ fun_fact: "I turn ☕ into working software"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalneder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalneder&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nidal-Al-Neder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Nidal-Al-Neder&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalneder&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nidal-Al-Neder&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedalneder&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Nidal-Al-Neder&theme=tokyo-night&hide_border=true" width="98%"/>
 
 </div>
 
@@ -69,7 +77,7 @@ fun_fact: "I turn ☕ into working software"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedalneder&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nidal-Al-Neder&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
@@ -81,6 +89,17 @@ fun_fact: "I turn ☕ into working software"
 <a href="https://www.linkedin.com/in/ahmed-al-neder-957bb5414" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/@Acadmy2022-Engineer" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://t.me/engineering02021" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/YouTube%20Subscribers-6K%2B-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Subscribers"/>
+<img src="https://img.shields.io/badge/Telegram%20Members-6K%2B-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Members"/>
 
 </div>
 
@@ -93,4 +112,3 @@ fun_fact: "I turn ☕ into working software"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
-
