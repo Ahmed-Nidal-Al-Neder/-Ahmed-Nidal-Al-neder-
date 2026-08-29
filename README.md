@@ -31,9 +31,7 @@ fun_fact: "I turn ☕ into working software"
 
 I'm an Intelligent Systems & Computer Engineering student at **Al-Aqsa University**, passionate about building software that is not just functional, but well-structured, maintainable, and built to scale. My core focus is **Java** and **Object-Oriented Programming**, where I care deeply about writing clean, readable code and applying solid design principles rather than just "making things work."
 
-Beyond the classroom, I run an **educational YouTube channel** and a **Telegram community**, each with over **6,000 members**, where I share engineering and programming content to help students learn and grow — because I believe knowledge multiplies when it's shared.
-
-I'm constantly exploring deeper concepts in software architecture and design patterns, and I enjoy the process of turning abstract problems into structured, elegant solutions. Whether it's a class project, a personal experiment, or content for my community, I approach every piece of work with the same mindset: **build it right, not just build it fast.**
+I'm constantly exploring deeper concepts in software architecture and design patterns, and I enjoy the process of turning abstract problems into structured, elegant solutions. Whether it's a class project or a personal experiment, I approach every piece of work with the same mindset: **build it right, not just build it fast.**
 
 <br/>
 
