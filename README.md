@@ -59,12 +59,12 @@ I'm constantly exploring deeper concepts in software architecture and design pat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nidal-Al-Neder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Ahmed-Nidal-Al-Neder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Nidal-Al-Neder&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nidal-Al-Neder&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ahmed-Nidal-Al-Neder&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Nidal-Al-Neder&theme=tokyo-night&hide_border=true" width="98%"/>
 
@@ -75,7 +75,7 @@ I'm constantly exploring deeper concepts in software architecture and design pat
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nidal-Al-Neder&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ahmed-Nidal-Al-Neder&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
